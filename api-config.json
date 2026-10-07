@@ -1,6 +1,6 @@
 {
   "trialRequestUrl": "https://streaming.tvplus.app/app/api/v3.2.0/trial_request/index.php",
-  "statusCheckUrl": "https://streaming.tvplus.app/app/api/v3.2.0/status_check/index.php",
+  "statusCheckUrl": "https://tvplus-api-proxy.moisescelso.workers.dev/app/api/v3.2.0/status_check/index.php",
   "credentialsUrl": "https://streaming.tvplus.app/app/api/v3.2.0/credentials_fetch/index.php",
   "devicePresenceUrl": "https://streaming.tvplus.app/app/api/v3.2.0/device_presence/index.php",
   "deviceNotificationsUrl": "https://streaming.tvplus.app/app/api/v3.2.0/device_notifications/index.php",
