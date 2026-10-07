@@ -1,12 +1,12 @@
 {
-  "trialRequestUrl": "https://streaming.tvplus.app/app/api/v3.2.0/trial_request/index.php",
+  "trialRequestUrl": "https://tvplus-api-proxy.moisescelso.workers.dev/app/api/v3.2.0/trial_request/index.php",
   "statusCheckUrl": "https://tvplus-api-proxy.moisescelso.workers.dev/app/api/v3.2.0/status_check/index.php",
-  "credentialsUrl": "https://streaming.tvplus.app/app/api/v3.2.0/credentials_fetch/index.php",
-  "devicePresenceUrl": "https://streaming.tvplus.app/app/api/v3.2.0/device_presence/index.php",
-  "deviceNotificationsUrl": "https://streaming.tvplus.app/app/api/v3.2.0/device_notifications/index.php",
-  "paymentsBaseUrl": "https://streaming.tvplus.app/app/api/v3.2.0/payments/",
-  "linkDeviceUrl": "https://streaming.tvplus.app/app/api/v3.2.0/link_device/index.php",
-  "liveTvSlidesUrl": "https://streaming.tvplus.app/app/live_tv_slides.json",
-  "homeBannerUrl": "https://streaming.tvplus.app/app/api/v3.2.0/home_banner/home_banner.json",
+  "credentialsUrl": "https://tvplus-api-proxy.moisescelso.workers.dev/app/api/v3.2.0/credentials_fetch/index.php",
+  "devicePresenceUrl": "https://tvplus-api-proxy.moisescelso.workers.dev/app/api/v3.2.0/device_presence/index.php",
+  "deviceNotificationsUrl": "https://tvplus-api-proxy.moisescelso.workers.dev/app/api/v3.2.0/device_notifications/index.php",
+  "paymentsBaseUrl": "https://tvplus-api-proxy.moisescelso.workers.dev/app/api/v3.2.0/payments/",
+  "linkDeviceUrl": "https://tvplus-api-proxy.moisescelso.workers.dev/app/api/v3.2.0/link_device/index.php",
+  "liveTvSlidesUrl": "https://tvplus-api-proxy.moisescelso.workers.dev/app/live_tv_slides.json",
+  "homeBannerUrl": "https://tvplus-api-proxy.moisescelso.workers.dev/app/api/v3.2.0/home_banner/home_banner.json",
   "configVersion": 1
 }
